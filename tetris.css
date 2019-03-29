@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+
+} */
+
+div{
+    text-align: center;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    width: 50%;
+    font-family: monospace;
+
+}
+
+
+
+
+#score{
+    display: inline;
+}
+
+canvas{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
